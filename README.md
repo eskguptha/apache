@@ -10,7 +10,7 @@ RewriteRule (.*) http://www.abc.org/$1 [R=301,L]
 # Ip to Domain
 
 #RewriteCond %{HTTP_HOST} ^103\.21\.59\.171
-#RewriteRule (.*) https://www.arcjournals.org/$1 [R=301,L]
+#RewriteRule (.*) https://www.abc.org/$1 [R=301,L]
 
 # http to www
 RewriteCond %{HTTP_HOST} ^abc.org [NC]
