@@ -1,4 +1,17 @@
 # apache
+Domain Redirect<br/>
+URL Rewrite<br/>
+gzip compression<br/>
+cache<br/>
+ip to domain<br/>
+http to www<br/>
+http to https<br/>
+Block ip<br/>
+Remove File Extension<br/>
+Folder Rename<br/>
+
+
+
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
